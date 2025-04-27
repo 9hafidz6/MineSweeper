@@ -1,29 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\VS_projects\\Minesweeper\\",
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Github\\devlopment practice\\MineSweeper\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A71254E4-B692-4960-836C-E8EEE2A19F5B}|Minesweeper\\Minesweeper.csproj|c:\\users\\admin\\documents\\vs_projects\\minesweeper\\minesweeper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A71254E4-B692-4960-836C-E8EEE2A19F5B}|Minesweeper\\Minesweeper.csproj|solutionrelative:minesweeper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A71254E4-B692-4960-836C-E8EEE2A19F5B}|Minesweeper\\Minesweeper.csproj|c:\\users\\admin\\documents\\vs_projects\\minesweeper\\minesweeper\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A71254E4-B692-4960-836C-E8EEE2A19F5B}|Minesweeper\\Minesweeper.csproj|solutionrelative:minesweeper\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A71254E4-B692-4960-836C-E8EEE2A19F5B}|Minesweeper\\Minesweeper.csproj|c:\\users\\admin\\documents\\vs_projects\\minesweeper\\minesweeper\\gridupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A71254E4-B692-4960-836C-E8EEE2A19F5B}|Minesweeper\\Minesweeper.csproj|c:\\users\\admin\\documents\\github\\devlopment practice\\minesweeper\\minesweeper\\gridupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A71254E4-B692-4960-836C-E8EEE2A19F5B}|Minesweeper\\Minesweeper.csproj|solutionrelative:minesweeper\\gridupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A71254E4-B692-4960-836C-E8EEE2A19F5B}|Minesweeper\\Minesweeper.csproj|c:\\users\\admin\\documents\\vs_projects\\minesweeper\\minesweeper\\messagewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A71254E4-B692-4960-836C-E8EEE2A19F5B}|Minesweeper\\Minesweeper.csproj|solutionrelative:minesweeper\\messagewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A71254E4-B692-4960-836C-E8EEE2A19F5B}|Minesweeper\\Minesweeper.csproj|c:\\users\\admin\\documents\\vs_projects\\minesweeper\\minesweeper\\gridinitialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A71254E4-B692-4960-836C-E8EEE2A19F5B}|Minesweeper\\Minesweeper.csproj|c:\\users\\admin\\documents\\github\\devlopment practice\\minesweeper\\minesweeper\\gridinitialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A71254E4-B692-4960-836C-E8EEE2A19F5B}|Minesweeper\\Minesweeper.csproj|solutionrelative:minesweeper\\gridinitialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDAFD3CA-E9F9-473E-9576-C1B7CCD697CF}|Minesweeper.Tests\\Minesweeper.Tests.csproj|c:\\users\\admin\\documents\\vs_projects\\minesweeper\\minesweeper.tests\\minesweepertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A71254E4-B692-4960-836C-E8EEE2A19F5B}|Minesweeper\\Minesweeper.csproj|c:\\users\\admin\\documents\\github\\devlopment practice\\minesweeper\\minesweeper\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71254E4-B692-4960-836C-E8EEE2A19F5B}|Minesweeper\\Minesweeper.csproj|solutionrelative:minesweeper\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71254E4-B692-4960-836C-E8EEE2A19F5B}|Minesweeper\\Minesweeper.csproj|c:\\users\\admin\\documents\\github\\devlopment practice\\minesweeper\\minesweeper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71254E4-B692-4960-836C-E8EEE2A19F5B}|Minesweeper\\Minesweeper.csproj|solutionrelative:minesweeper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAFD3CA-E9F9-473E-9576-C1B7CCD697CF}|Minesweeper.Tests\\Minesweeper.Tests.csproj|c:\\users\\admin\\documents\\github\\devlopment practice\\minesweeper\\minesweeper.tests\\minesweepertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDAFD3CA-E9F9-473E-9576-C1B7CCD697CF}|Minesweeper.Tests\\Minesweeper.Tests.csproj|solutionrelative:minesweeper.tests\\minesweepertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,82 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\VS_projects\\Minesweeper\\Minesweeper\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Github\\devlopment practice\\MineSweeper\\Minesweeper\\Program.cs",
               "RelativeDocumentMoniker": "Minesweeper\\Program.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\VS_projects\\Minesweeper\\Minesweeper\\Program.cs",
-              "RelativeToolTip": "Minesweeper\\Program.cs",
-              "ViewState": "AgIAAPcAAAAAAAAAAAAQwAIBAAAjAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Github\\devlopment practice\\MineSweeper\\Minesweeper\\Program.cs*",
+              "RelativeToolTip": "Minesweeper\\Program.cs*",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAQwMcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T05:45:21.794Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Common.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\VS_projects\\Minesweeper\\Minesweeper\\Common.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Github\\devlopment practice\\MineSweeper\\Minesweeper\\Common.cs",
               "RelativeDocumentMoniker": "Minesweeper\\Common.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\VS_projects\\Minesweeper\\Minesweeper\\Common.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Github\\devlopment practice\\MineSweeper\\Minesweeper\\Common.cs",
               "RelativeToolTip": "Minesweeper\\Common.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T12:53:54.028Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "GridUpdate.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\VS_projects\\Minesweeper\\Minesweeper\\GridUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Github\\devlopment practice\\MineSweeper\\Minesweeper\\GridUpdate.cs",
               "RelativeDocumentMoniker": "Minesweeper\\GridUpdate.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\VS_projects\\Minesweeper\\Minesweeper\\GridUpdate.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Github\\devlopment practice\\MineSweeper\\Minesweeper\\GridUpdate.cs",
               "RelativeToolTip": "Minesweeper\\GridUpdate.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAMwDMAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwB8AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T12:53:23.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "GridInitialization.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\VS_projects\\Minesweeper\\Minesweeper\\GridInitialization.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Github\\devlopment practice\\MineSweeper\\Minesweeper\\GridInitialization.cs",
               "RelativeDocumentMoniker": "Minesweeper\\GridInitialization.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\VS_projects\\Minesweeper\\Minesweeper\\GridInitialization.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Github\\devlopment practice\\MineSweeper\\Minesweeper\\GridInitialization.cs",
               "RelativeToolTip": "Minesweeper\\GridInitialization.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAswEcAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwA8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T12:36:14.513Z"
+              "WhenOpened": "2025-04-23T12:36:14.513Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "MinesweeperTests.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\VS_projects\\Minesweeper\\Minesweeper.Tests\\MinesweeperTests.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Github\\devlopment practice\\MineSweeper\\Minesweeper.Tests\\MinesweeperTests.cs",
               "RelativeDocumentMoniker": "Minesweeper.Tests\\MinesweeperTests.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\VS_projects\\Minesweeper\\Minesweeper.Tests\\MinesweeperTests.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Github\\devlopment practice\\MineSweeper\\Minesweeper.Tests\\MinesweeperTests.cs",
               "RelativeToolTip": "Minesweeper.Tests\\MinesweeperTests.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAA1wD8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T05:42:36.442Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MessageWriter.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\VS_projects\\Minesweeper\\Minesweeper\\MessageWriter.cs",
-              "RelativeDocumentMoniker": "Minesweeper\\MessageWriter.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\VS_projects\\Minesweeper\\Minesweeper\\MessageWriter.cs",
-              "RelativeToolTip": "Minesweeper\\MessageWriter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T05:54:44.739Z",
+              "WhenOpened": "2025-04-21T05:42:36.442Z",
               "EditorCaption": ""
             }
           ]

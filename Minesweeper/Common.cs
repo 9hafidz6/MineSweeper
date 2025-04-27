@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Minesweeper
 {
-    class Common
+    public class Common
     {
         public int ConvertLetterToIndex(char letter)
         {
@@ -17,8 +17,9 @@ namespace Minesweeper
             return char.ToUpper(letter) - 'A'; // Convert letter to index (A=0, B=1, ...)
         }
 
-        public int CountHiddenCells(int size, char[,] userBoard, int hiddenCount)
+        public int CountHiddenCells(int size, char[,] userBoard)
         {
+            int hiddenCount = 0; // Reset hidden count
             for (int i = 0; i < size; i++)
             {
                 for (int j = 0; j < size; j++)

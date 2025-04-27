@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Minesweeper
 {
-    class GridInitialization
+    public class GridInitialization
     {
         public char[,] CreateGrid(int size, int NumOfMines)
         {

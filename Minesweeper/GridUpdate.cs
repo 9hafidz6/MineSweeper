@@ -29,6 +29,7 @@ namespace Minesweeper
 
             for (int i = 0; i < size; i++)
             {
+                // letter (A-Z) and print it
                 Console.Write((char)('a' + i) + " ");
                 for (int j = 0; j < size; j++)
                 {
